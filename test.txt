@@ -1,5 +1,8 @@
 I add 1 new file 
 3.09 -> add line 3
 3.10 -> delete line 2
+<<<<<<< HEAD
 3.11 => add line 4
 3.12 => add line 5
+=======
+>>>>>>> parent of 9dac0c3 (Update test.txt)
